@@ -21,7 +21,7 @@ EL Juego solo cuenta con tres pantallas.
 <p>Las flechas izquierda (LEFT ARROW) y derecha (RIGHT ARROW) sirven para mover el tetromino en juego hacia la dirección especificada por la flecha.<br>
 La felcha de arriba (UP ARROW) sirve para rotar el tetromino en dirección horaria.<br>
 La flecha inferior (DOWN ARROW) sirve para aumentar la velocidad de descenso del tetromino en juego; tener en cuenta que esto aumenta tu puntaje de juego.<br>
-La barra espacioadora (SPACE) permite pausar el juego y abre la interzas de pausa.<br>
+La barra espaciadora (SPACE) permite pausar el juego y abre la interzas de pausa.<br>
 La tecla (SHIFT) permite visualizar los valores de la matriz de memoria en tiempo real que corresponde a la porcion de la pantlla donde se muestra el tablero de juego.</p>
 
 ### Menu de Pausa.
