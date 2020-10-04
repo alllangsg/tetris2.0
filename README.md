@@ -18,15 +18,15 @@ EL Juego solo cuenta con tres pantallas.
 <p>Esta pantalla consta del tablero de juego, donde obvamente los tetrominos pueden ser movidos a voluntad usando las flechas del teclado, un cuadro que te muestra el siguiente tetromino a aparecer, un cuadro que te muestra tu puntaje actual, y un cuadro que te muestra el nivel en el que estas. Hay un total de 4 niveles que correspondeen a cuatro aceleraciones de descenso mayores a la anterior. El nivel aumenta después de cierta cantidad de tiempo.</p>
 
 ### Controles de Juego
-<p>Las flechas izquierda (LEFT ARROW)) y derecha (RIGHT ARROW) sirven para mover el tetromino en juego hacia la dirección especificada por la flecha.<br>
+<p>Las flechas izquierda (LEFT ARROW) y derecha (RIGHT ARROW) sirven para mover el tetromino en juego hacia la dirección especificada por la flecha.<br>
 La felcha de arriba (UP ARROW) sirve para rotar el tetromino en dirección horaria.<br>
 La flecha inferior (DOWN ARROW) sirve para aumentar la velocidad de descenso del tetromino en juego; tener en cuenta que esto aumenta tu puntaje de juego.<br>
 La barra espacioadora (SPACE) permite pausar el juego y abre la interzas de pausa.<br>
-La tecla SHIFT permite visualizar los valores de la matriz de memoria en tiempo real que corresponde a la porcion de la pantlla donde se muestra el tablero de juego.</p>
+La tecla (SHIFT) permite visualizar los valores de la matriz de memoria en tiempo real que corresponde a la porcion de la pantlla donde se muestra el tablero de juego.</p>
 
 ### Menu de Pausa.
-Aqui te muestra tu puntaje actual y te deja Reanudar el juego oprimiendo SPACE, o reiniciarlo oprimiendo SHIFT.
+Aqui te muestra tu puntaje actual y te deja Reanudar el juego oprimiendo (SPACE), o reiniciarlo oprimiendo (SHIFT).
 
 ### Game Over
-En esta pantalla se muestra tu puntaje Final, y te deja Iniciar u Nuevo juego Oprimiendo la tecla SPACE.
+En esta pantalla se muestra tu puntaje Final, y te deja Iniciar un Nuevo juego Oprimiendo la tecla (SPACE).
 
